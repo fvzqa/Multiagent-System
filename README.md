@@ -1,2 +1,2 @@
 # Multiagent-System
-No pude completar la tarea con Java/Jason, pero realicé esto en Python.
+Tarea 1 de la clase de Multiagentes, realizada en Phyton. 
